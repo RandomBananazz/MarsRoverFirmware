@@ -96,6 +96,7 @@ add_app_subdirectory(${ROVER_APPS_DIR}/pdb)
 add_app_subdirectory(${ROVER_APPS_DIR}/science)
 
 # Include Test Apps
+add_app_subdirectory(${TEST_APPS_DIR}/tutorial-servo-pot-control)
 add_app_subdirectory(${TEST_APPS_DIR}/test-actuator-controller)
 add_app_subdirectory(${TEST_APPS_DIR}/test-adafruitSTEMMA)
 add_app_subdirectory(${TEST_APPS_DIR}/test-aeat-6012)
